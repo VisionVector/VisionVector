@@ -21,15 +21,15 @@ into elegant, efficient code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianheldes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VisionVector&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianheldes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisionVector&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianheldes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisionVector&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -53,10 +53,10 @@ into elegant, efficient code.
 
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [ai-agent-framework](https://github.com/adrianheldes/ai-agent-framework) | Production-ready AI agent framework | ⭐ 456 |
-| [distributed-cache](https://github.com/adrianheldes/distributed-cache) | High-performance distributed caching system | ⭐ 234 |
-| [ml-pipeline](https://github.com/adrianheldes/ml-pipeline) | End-to-end ML training & deployment pipeline | ⭐ 189 |
-| [api-gateway](https://github.com/adrianheldes/api-gateway) | Lightweight API gateway with rate limiting | ⭐ 167 |
+| [ai-agent-framework](https://github.com/VisionVector/ai-agent-framework) | Production-ready AI agent framework | ⭐ 456 |
+| [distributed-cache](https://github.com/VisionVector/distributed-cache) | High-performance distributed caching system | ⭐ 234 |
+| [ml-pipeline](https://github.com/VisionVector/ml-pipeline) | End-to-end ML training & deployment pipeline | ⭐ 189 |
+| [api-gateway](https://github.com/VisionVector/api-gateway) | Lightweight API gateway with rate limiting | ⭐ 167 |
 
 ---
 
@@ -89,7 +89,7 @@ Other           20 mins      ░░░░░░░░░░░░░░░░░
 ## 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianheldes&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VisionVector&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -97,16 +97,16 @@ Other           20 mins      ░░░░░░░░░░░░░░░░░
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/adrianheldes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/adrianheldes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://adrianheldes.dev"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:adrianheldes.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/VisionVector"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/VisionVector"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://VisionVector.dev"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:VisionVector.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adrianheldes&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VisionVector&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
