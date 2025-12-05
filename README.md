@@ -2,8 +2,8 @@
 
 ### Senior Backend & AI Engineer
 
-Passionate Backend & AI Engineer with 8+ years of experience building scalable 
-distributed systems and machine learning solutions. I love turning complex problems 
+Passionate Backend & AI Engineer with 8+ years of experience building scalable
+distributed systems and machine learning solutions. I love turning complex problems
 into elegant, efficient code.
 
 ---
@@ -21,47 +21,94 @@ into elegant, efficient code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianheldes&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianheldes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianheldes&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianheldes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianheldes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+| Achievement | Description | Tier |
+|:-----------:|-------------|:----:|
+| 🏔️ **Arctic Code Vault Contributor** | Contributed code to the 2020 GitHub Archive Program | ✅ |
+| 🦈 **Pull Shark** ×128 | Opened 128 pull requests that have been merged | **x3** |
+| 🤠 **YOLO** | Merged a pull request without code review | ✅ |
+| 🤠 **Quickdraw** | Closed an issue or PR within 5 minutes of opening | ✅ |
+| 👥 **Pair Extraordinaire** ×64 | Coauthored 64 commits on merged pull requests | **x2** |
+| 🧠 **Galaxy Brain** ×16 | Answered 16 discussions with accepted answers | **x2** |
+| ⭐ **Starstruck** ×128 | Created a repository that has 128 stars | **x2** |
+| 💖 **Public Sponsor** | Sponsored an open source contributor | ✅ |
 
 ---
 
 ## 🔥 Featured Projects
 
-- [ai-agent-framework](https://github.com/adrianheldes/ai-agent-framework) - Production-ready AI agent framework ⭐ 456
-- [distributed-cache](https://github.com/adrianheldes/distributed-cache) - High-performance distributed caching system ⭐ 234
-- [ml-pipeline](https://github.com/adrianheldes/ml-pipeline) - End-to-end ML training & deployment pipeline ⭐ 189
-- [api-gateway](https://github.com/adrianheldes/api-gateway) - Lightweight API gateway with rate limiting ⭐ 167
-
+| Project | Description | Stars |
+|---------|-------------|:-----:|
+| [ai-agent-framework](https://github.com/adrianheldes/ai-agent-framework) | Production-ready AI agent framework | ⭐ 456 |
+| [distributed-cache](https://github.com/adrianheldes/distributed-cache) | High-performance distributed caching system | ⭐ 234 |
+| [ml-pipeline](https://github.com/adrianheldes/ml-pipeline) | End-to-end ML training & deployment pipeline | ⭐ 189 |
+| [api-gateway](https://github.com/adrianheldes/api-gateway) | Lightweight API gateway with rate limiting | ⭐ 167 |
 
 ---
 
-## 📈 Contribution Stats
+## 📈 Overview & Stats
+
+```
+📊 Weekly Development Breakdown
+
+Python       12 hrs 45 mins  ████████████░░░░░░░░  45.2%
+Go            6 hrs 30 mins  ██████░░░░░░░░░░░░░░  23.1%
+Rust          4 hrs 15 mins  ████░░░░░░░░░░░░░░░░  15.1%
+TypeScript    2 hrs 50 mins  ███░░░░░░░░░░░░░░░░░  10.1%
+YAML          1 hr 30 mins   ██░░░░░░░░░░░░░░░░░░   5.3%
+Other           20 mins      ░░░░░░░░░░░░░░░░░░░░   1.2%
+```
 
 | Metric | Count |
-|--------|-------|
-| Total Commits | 4,892 |
-| Pull Requests | 847 |
-| Issues | 312 |
-| Repositories | 89 |
-| Stars Received | 1,247 ⭐ |
-| Current Streak | 23 days 🔥 |
-| Longest Streak | 147 days |
+|--------|------:|
+| 🔥 Total Commits | 4,892 |
+| 🔃 Pull Requests | 847 |
+| 🐛 Issues | 312 |
+| 📦 Repositories | 89 |
+| ⭐ Stars Received | 1,247 |
+| 🔥 Current Streak | 23 days |
+| 🏆 Longest Streak | 147 days |
+| 👥 Followers | 892 |
+
+---
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianheldes&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianheldes)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adrianheldes)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adrianheldes.dev)
+<p align="center">
+  <a href="https://linkedin.com/in/adrianheldes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/adrianheldes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://adrianheldes.dev"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:adrianheldes.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adrianheldes&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adrianheldes&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>💡 "Building the future with AI, one commit at a time."</i>
 </p>
