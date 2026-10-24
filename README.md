@@ -1,11 +1,11 @@
 ## VisionVector
 
-**Senior Backend & AI Engineer**
+**AI Full Stack Engineer**
 
-Building distributed systems and AI infrastructure. Open source contributor.
+Developing modern web applications and integrating AI-powered features. Focused on learning, building practical solutions, and growing as a full stack developer.
 
 ---
 
-**Focus:** Distributed Systems · AI/ML Infrastructure · High-Performance Computing · System Design
+**Focus:** Full Stack Development · AI Integration · REST APIs · Web Application Development
 
-**Stack:** Python · Go · Rust · PyTorch · Kubernetes · PostgreSQL
+**Stack:** JavaScript · TypeScript · React · Node.js · Express.js · Python · MongoDB · PostgreSQL · OpenAI API
